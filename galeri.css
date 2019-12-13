@@ -1,0 +1,44 @@
+.iday{
+    color: darkgoldenrod;
+    background-color : white;
+    width: 80%;
+    padding: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+body{
+    background-image: url(background/Pure.jpg);
+    width:80%;
+    background-color: white;
+    margin: auto;
+    padding:120px 80px;
+}
+img{
+    border:3px solid salmon;
+    margin: 20px;
+    margin-left:49px;
+}
+
+}
+.footer{
+    width: 100%;
+    background-color: darkgoldenrod;
+    margin: 0;
+}
+.syahida{
+    font-size: 13px;
+    color: indianred;
+}
+.button{
+    cursor: pointer;
+    color: rgb(73, 43, 13);
+    background: rgb(245, 149, 117);
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.button:hover{
+    background:brown;

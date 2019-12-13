@@ -1,0 +1,86 @@
+a{
+    color: brown;
+    text-decoration: none;
+}
+body {
+    margin: 0;
+    background-image: url(background/Pure.jpg);
+   
+    
+}
+span{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(44, 32, 17);
+}
+.Navbar{
+    width: 100%;
+    background-image: url(background/save.jpg);
+    margin: 0;
+}
+.Nav-body{
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+
+}
+.Nav-body ul{
+    margin:8px;
+    padding: 0;
+    float: right;
+    
+}
+.Nav-body ul li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+
+}
+
+.banner-color{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 120px;
+    color: sienna;
+    margin: auto;
+    text-align: center;
+
+}
+.button{
+    cursor: pointer;
+    color: rgb(73, 43, 13);
+    background: rgb(245, 149, 117);
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+}
+.button:hover{
+    background:brown;
+}
+
+}
+.footer{
+    width: 100%;
+    background-color: darkgoldenrod;
+    margin: 0;
+}
+.syahida{
+    font-size: 13px;
+    color: crimson;
+}
+.ida{
+        cursor: pointer;
+        color: rgb(73, 43, 13);
+        background: rgb(245, 149, 117);
+        width: 200px;
+        height: 100px;
+        border-radius: 5px;
+        border: none;
+        padding: 10px;
+        font-size: 20px;
+    }
+    .ida:hover{
+        background:brown;

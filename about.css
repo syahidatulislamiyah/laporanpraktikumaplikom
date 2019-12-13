@@ -1,0 +1,118 @@
+/* Navbar */
+a{
+    text-decoration: none;
+    display: inline;
+    list-style: none;
+    float: right;
+    border: solid 2px rgb(19, 16, 8);
+    background-image: url(galeri/profil.jpg);
+    font-size: 20px;
+    margin: 30px 70px;
+    padding: 3px 20px;
+    color: pink;
+}
+.Navbar {
+    width: 100%;
+    background-image: url(background/gradient.jpg);
+    background-color: black;
+    margin:0px;
+    padding: 0;
+}
+.Navbar-menu{
+    padding: 20px 50px 20px 50px;
+    margin: 0;
+}
+.menu {
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.616);
+    border: solid 2px goldenrod;
+    text-align: center;
+    margin: auto;
+}
+body {
+    background-image: url(background/Pure.jpg);
+    padding: 0;
+    margin: 0;
+}
+
+/* Profile */
+.foto{
+    border: solid 2px goldenrod;
+    margin: 30px 150px;
+    padding: 15px 30px 15px 70px;
+}
+.main-profile{
+    background-color: rgba(238, 236, 236, 0.432);
+}
+.profil{
+    float: right;
+    background-color: pink;
+    margin: 0px 20px ;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Educatation */
+.Menu-pendidikan{
+    border: solid 2px goldenrod
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.riwayat-pendidikan{
+    border: solid 2px goldenrod;
+    background-color: pink;
+    margin-bottom: 50px;
+    margin: auto;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 30%;
+    text-align: center;
+    
+}
+/* Hobby */
+.hobiku{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.hobi{
+    border: solid 2px goldenrod;
+    background-color: pink;
+    margin: auto;
+    padding: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 30%;
+    text-align: center;
+
+}
+
+}
+.footer{
+    width: 100%;
+    background-color: palevioletred;
+    margin-top: 200px;
+}
+.syahida{
+    font-size: 13px;
+    color: crimson;
+
+}
+button{
+    cursor: pointer;
+    color: red;
+    background: rgb(245, 149, 117);
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    border: red;
+    padding: 10px;
+    font-size: 20px;
+}
+.button:hover{
+    background: red;
+
+
+
+
+

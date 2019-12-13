@@ -1,0 +1,108 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+body {
+    margin: 0;
+    background-image: url(background/save.jpg);
+}
+span{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.Navbar{
+    width: 100%;
+    background-color: rgba(134, 71, 19, 0.973);
+    margin: 0;
+}
+.Nav-body{
+    padding: 20px;
+    width: 80%;
+    margin: auto;
+
+}
+.Nav-body ul{   
+    margin:8px;
+    padding: 0;
+    float: right;
+    
+}
+.Nav-body ul li{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+}
+.hp{
+    background-image: url(ikon/whatsapp.png);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 19px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    font-size: 16px;
+    margin-top: 150px;
+}
+.ig{
+    background-image: url(ikon/instagram.png);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 19px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    font-size: 16px;
+}
+.mail{
+    background-image: url(ikon/love-letter.png);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 19px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    font-size: 16px;
+
+}
+.fb{
+    background-image: url(ikon/facebook.png);
+    background-repeat: no-repeat;
+    padding-left: 25px;
+    background-size: 19px;
+    background-position-y: 0px;
+    margin-left: 100px;
+    font-size: 16px;
+    margin-bottom: 100px;
+}
+
+}
+.footer{
+    width: 100%;
+    background-color: darkgoldenrod;
+    margin: 0;
+}
+.syahida{
+    font-size: 13px;
+    color: black;
+
+}
+.button{
+    cursor: pointer;
+    color: rgb(73, 43, 13);
+    background: rgb(199, 74, 32);
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 400px;
+}
+.button:hover{
+    background:rgb(143, 50, 50);
+
+
